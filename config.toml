@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   email = "me@jimwithington.com"
   address = "Portland, OR 97214"
   office_hours = ""
-  phone = "888 888 88 88"
+  phone = "(503) 583-2829"
   skype = ""
   telegram = ""
 
@@ -159,15 +159,17 @@ defaultContentLanguageInSubdir = false
 #  url = "#publications_selected"
 #  weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Writing"
+  url = "#posts"
   weight = 4
+
+
 
 #[[menu.main]]
 #  name = "Teaching"

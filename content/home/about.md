@@ -12,26 +12,34 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "HTML & CSS",
+    "JavaScript (especially Ember)",
+    "SASS",
+    "Jekyll & Hugo",
+    "JAMstack",
+    "Writing good docs"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MA in Interdisciplinary Arts"
+  institution = "Columbia College Chicago"
+  year = 2002
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BS in Education and Social Policy"
+  institution = "Northwestern University"
+  year = 2000
+
+  [[education.courses]]
+    course = "Web Designer Blueprint"
+    institution = "Skillcrush"
+    year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Rails Track"
+  institution = "Treehouse"
+  year = 2015
 
 +++
 
