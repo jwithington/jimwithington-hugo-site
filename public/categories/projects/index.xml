@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jim Withington</title>
+    <link>https://jimwithington.com/categories/projects/</link>
+    <description>Recent content in Projects on Jim Withington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jim Withington</copyright>
+    <lastBuildDate>Sun, 19 Mar 2017 05:30:10 +0000</lastBuildDate>
+    <atom:link href="/categories/projects/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What I’ve been doing; or, what if you start a project and it kinda takes off but doesn’t; or, what if it seems like you abandoned your own thing; or, integrating new practices; or, Day 36 to Day 64</title>
+      <link>https://jimwithington.com/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</link>
+      <pubDate>Sun, 19 Mar 2017 05:30:10 +0000</pubDate>
+      
+      <guid>https://jimwithington.com/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</guid>
+      <description>
+
+&lt;!-- &lt;img src=&#34;http://unfocused.tech/wp-content/uploads/2017/03/public-domain-images-free-stock-photos-high-quality-resolution-downloads-around-the-house-7-768x512.jpg&#34; alt=&#34;A nest on top of a stack of books, on a bookshelf&#34; width=&#34;660&#34; height=&#34;440&#34; class=&#34;aligncenter size-medium_large wp-image-40&#34; /&gt; --&gt;
+
+&lt;p&gt;For the first 5 weeks or so of 2017, &lt;a href=&#34;https://github.com/jwithington/100-days-of-healthing/graphs/commit-activity&#34; target=&#34;_blank&#34;&gt;I committed a whole lot&lt;/a&gt; to my #&lt;a href=&#34;https://github.com/jwithington/100-days-of-healthing&#34; target=&#34;_blank&#34;&gt;100DaysOfHealthing repo&lt;/a&gt;. The project buzzed around my head, I set up my work computer to launch Git Bash every day when I logged in, and &lt;a href=&#34;http://selfcare.tech/&#34; target=&#34;_blank&#34;&gt;folks that I admire&lt;/a&gt; even added me to their &lt;a href=&#34;https://github.com/jenniferlynparsons/selfcaretech/pull/36&#34; target=&#34;_blank&#34;&gt;own projects&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And then hey look at that, it was February, and a lot of good things were happening in my personal life&amp;#8211;health things shaking out, finances slowly but kinda surely improving, meditating every day (not just three minutes at a time, but 10 minutes, even! Thanks &lt;a href=&#34;https://www.headspace.com&#34; target=&#34;_blank&#34;&gt;Headspace&lt;/a&gt; !), and going to acupuncture regularly. I took baths a lot more with the help of the &amp;#8220;podcast bath kit&amp;#8221; my girlfriend bought me for Christmas. I helped promote self-care at work and at home. I had encouraging things for other folks who were participating.&lt;/p&gt;
+
+&lt;p&gt;And then, the commits dried up.&lt;/p&gt;
+
+&lt;p&gt;I feel a responsibility to explain that, and also like the idea of showing how &lt;em&gt;this kind of shift&lt;/em&gt; can be positive, too. So here goes.&lt;/p&gt;
+
+&lt;h2 id=&#34;you-are-not-your-projects&#34;&gt;You are not your projects&lt;/h2&gt;
+
+&lt;p&gt;You know what would suck? If &lt;strong&gt;&lt;em&gt;trying to get one self-care hour a day stressed you the fuck out&lt;/em&gt;&lt;/strong&gt;. If trying to make time to track a self-care hour &lt;em&gt;in itself made you miss or long for self-care&lt;/em&gt;. If &amp;#8220;update self-care log&amp;#8221; because a niggling, nagging task, instead of a joyous way to track amazing steps!&lt;/p&gt;
+
+&lt;p&gt;Did this happen to me? No way. But as I started updating three, four, seven days all in a batch, I realized something:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It was more important to me to live a life that included self-care (and promotion of self-care) than it was to do little updates every day.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cop out? Hmm.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;¯\_(ツ)_/¯&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;But here&amp;#8217;s a list of things that have happened since my last commit to the repo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For my birthday, my girlfriend, dog, and &lt;strong&gt;I took a screenless weekend on the Washington coast&lt;/strong&gt;. This included a lot of taking baths, reading, and not much else. I wanted a pause, and I got one, and it was like a self-care boot camp reset.&lt;sup id=&#34;fnref-32-1&#34;&gt;&lt;a href=&#34;#fn-32-1&#34; class=&#34;jetpack-footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I learned that &lt;strong&gt;I no longer wanted to use my phone as my alarm&lt;/strong&gt;. Weird? I dunno, but hear me out: screenless weekend meant my phone wasn&amp;#8217;t the last thing I saw at light&amp;#8217;s out or the first thing I saw when waking up. I no longer could get sucked in to distractions at the time when my mind is most apt (&lt;a href=&#34;https://www.youtube.com/watch?v=3MpRt41tPoc&#34; target=&#34;_blank&#34;&gt;apt!&lt;/a&gt;) to fill with distraction.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;So I bought a [Pebble Time][pebble]. This, too, was huge. Now I had an alarm that would wake me up silently, more easily, and without HEY HERE&amp;#8217;S ALL THE COOL PHONE THINGS YOU CAN DO staring at me from moment one. I can walk the dog without my phone as a step tracker. I have a thing that lives on my body that maybe is a bit less accurate but more realistic in telling me when I was &lt;em&gt;actually&lt;/em&gt; sleeping.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I continued working out some medication stuff that&amp;#8217;s important.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I had some mini-breakthroughs in therapy and at acupuncture.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These seem positive to me. And (maybe with the exception of a gadget, even a well-thought out one) it seems like ongoing self-care, too.&lt;/p&gt;
+
+&lt;h2 id=&#34;unstructured-time&#34;&gt;Unstructured Time&lt;/h2&gt;
+
+&lt;p&gt;I never take any. If I think of the kind of thing where I actively just&amp;#8230;hang out? Watch a random movie? Read a magazine and just drink coffee, or even just go out for coffee without a Task At Hand? I hardly ever do these things.&lt;/p&gt;
+
+&lt;p&gt;And my therapist (who rules) and I keep coming back to that. I always feel &lt;a href=&#34;http://5by5.tv/b2w/251&#34; target=&#34;_blank&#34;&gt;time-constrained&lt;/a&gt;, and I also always feel like &amp;#8220;this time right here has to have something going on.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;So, in a way, I&amp;#8217;ve been doing more self-care during #100DaysOfHealthing. I just haven&amp;#8217;t always planned, executed and recorded it.&lt;/p&gt;
+
+&lt;p&gt;I hope that&amp;#8217;s true for you as well.&lt;/p&gt;
+
+&lt;p&gt;And I know that I have a loooong way to go improve my relationship with myself and others, but the self-care part has landed in a good spot.&lt;/p&gt;
+
+&lt;h2 id=&#34;now-what&#34;&gt;Now What?&lt;/h2&gt;
+
+&lt;p&gt;Well, a few things:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I still consider the project to be underway, for me, and for any of you that are still doing it.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the future, for the project, I&amp;#8217;m going to consider finding a way to make tracking days a lot simpler / more &amp;#8220;on the fly&amp;#8221;. Because stressing out about tracking self-care is super unproductive.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;At some point we will reach 100 days! And then maybe, later in the year, I&amp;#8217;ll do a relaunch of the project.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But for now, know this: I&amp;#8217;m supporting myself by taking time for self-care. I hope you are, too.&lt;/p&gt;
+
+&lt;p&gt;❤️&lt;/p&gt;
+
+&lt;p&gt;jim&lt;/p&gt;
+
+&lt;p&gt;p.s. I wrote this about two weeks ago, but didn&amp;#8217;t quite post it then. I think it all still stands though. 😀 Today, March 18, is Day 75, if you&amp;#8217;re counting.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;this post originally appeared over at &lt;a href=&#34;http://unfocused.tech&#34; target=&#34;_blank&#34;&gt;the (un)focused dev&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li id=&#34;fn-32-1&#34;&gt;
+  You should go &lt;a href=&#34;https://www.marinacottages.com/&#34;&gt;to Westport&lt;/a&gt;. It&amp;#8217;s delightful.&amp;#160;&lt;a href=&#34;#fnref-32-1&#34;&gt;&amp;#8617;&lt;/a&gt; &lt;/fn&gt;&lt;/footnotes&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Healthing</title>
+      <link>https://jimwithington.com/2017/01/02/100-days-of-healthing/</link>
+      <pubDate>Mon, 02 Jan 2017 01:57:27 +0000</pubDate>
+      
+      <guid>https://jimwithington.com/2017/01/02/100-days-of-healthing/</guid>
+      <description>
+
+&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/sachac/16691122547/in/photostream/&#34; title=&#34;2015-03-18c What do I do for self-care -- index card #self-care #happiness #comfort&#34;&gt;&lt;img src=&#34;https://c4.staticflickr.com/9/8726/16691122547_9348647318_z.jpg&#34; width=&#34;640&#34; height=&#34;383&#34; alt=&#34;2015-03-18c What do I do for self-care -- index card #self-care #happiness #comfort&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-8217-s-this-now&#34;&gt;What&amp;#8217;s this, now?&lt;/h2&gt;
+
+&lt;p&gt;Inspired by &lt;a href=&#34;https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.c2c5pd1h2&#34; target=&#34;_blank&#34;&gt;100DaysofCode&lt;/a&gt;, 100 Days of Healthing is a challenge to spend an hour a day, for 100 days, working on your health &amp;amp; self care. It&amp;#8217;s permission to give &lt;em&gt;yourself&lt;/em&gt; an hour a day. And we&amp;#8217;re all here with you.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-do-you-hate-100-days-of-code&#34;&gt;Why do you hate 100 Days of Code?&lt;/h2&gt;
+
+&lt;p&gt;Oh my goodness, that&amp;#8217;s so not true! I don&amp;#8217;t. I think it&amp;#8217;s a fabulous concept, super motivating, something I want to do (maybe for the second 100 days of 2017?) and something that could be done alongside 100 Days of Healthing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/ka11away&#34; target=&#34;_blank&#34;&gt;Alex&lt;/a&gt; is an inspiration &amp;#8212; I even forked &lt;a href=&#34;https://github.com/jwithington/100-days-of-healthing&#34; target=&#34;_blank&#34;&gt;my Github repo&lt;/a&gt; from him! Without 100 Days of Code, this new project isn&amp;#8217;t a thing. His framework allowed me to envision this, and I&amp;#8217;m super grateful for that.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-thing-is-though-8230&#34;&gt;The thing is, though&amp;#8230;.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Coding and health aren&amp;#8217;t mutually exclusive&lt;/strong&gt;. We can keep our skills fresh &lt;em&gt;and&lt;/em&gt; take care of our minds, bodies, and spirits. Things like &lt;a href=&#34;http://selfcare.tech&#34; target=&#34;_blank&#34;&gt;selfcare.tech&lt;/a&gt; are &lt;em&gt;vital and necessary&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Those of us who work in tech often do it because we have untreated/undiagnosed health issues, communication troubles, or other things that make tech work line up with our needs. There&amp;#8217;s nothing wrong with that either &amp;#8212; I&amp;#8217;m a huge advocate for employers that recognize that adults need to go to the doctor during work hours, or that just know that people need to work from home because they are &lt;a href=&#34;https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/&#34; target=&#34;_blank&#34;&gt;out of spoons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;and-sometimes&#34;&gt;And sometimes?&lt;/h2&gt;
+
+&lt;p&gt;Sometimes getting lost in the screen to. Just. Flash. Another. Version. Of. Android.&lt;sup id=&#34;fnref-20-1&#34;&gt;&lt;a href=&#34;#fn-20-1&#34; class=&#34;jetpack-footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Or &lt;em&gt;just&lt;/em&gt; get a new Jekyll droplet going. Or &lt;em&gt;just&lt;/em&gt; finish that &lt;strong&gt;one&lt;/strong&gt; ticket &amp;#8220;so we can go home.&amp;#8221; Sometimes those things are taxing! And so it goes that the health issues and communication and all those other important things just never get addressed.&lt;/p&gt;
+
+&lt;p&gt;So I started wondering: What if the same kind of momentum built when a bunch of people turn their attention to coding could happen around health? What if you sorta got that dopamine jolt of &amp;#8220;yep, it&amp;#8217;s a new day, I gotta get my hour of self care?&amp;#8221; What if the &lt;a href=&#34;https://www.freecodecamp.com/&#34; target=&#34;_blank&#34;&gt;FreeCodeCamp&lt;/a&gt; community could rally behind this, too?&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/sachac/17157051896/in/photolist-s97nMA-sfUoL1-9sa2eX-9sd1LL-aatdKM-6PEeVj-dsx3i6-cJYTJC-oMzPb-56CUnd-9sgfe9-fsXK2T-pihpVY-qgL4mF-4f7bev-9TfaLW-ej2mct-gwmN7H-a9MFqY-gwmAC2-jSWVy4-eg9yha-dswhG8-9sgf6f-4FSfTU-aBshrA-nbuAHY-nAKQ4C-zMGBS-9sa2pR-9sge2w-nbtLM7-9sdfhX-jgW5dc-dFHiG5-r1jJAM-6EpzvX-7E3U4g-cjF8mq-5jhfU6-fZDKXs-5HCzhP-9sge6s-drgpAM-9sdfFD-9sgeD5-9FFDea-dPyiC6-9sgfeY-9sdfxp/&#34; title=&#34;2015-04-17b Being extra-kind to myself -- index card #self-care&#34;&gt;&lt;img src=&#34;https://c1.staticflickr.com/8/7669/17157051896_4dac889f84_z.jpg&#34; width=&#34;640&#34; height=&#34;383&#34; alt=&#34;2015-04-17b Being extra-kind to myself -- index card #self-care&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-8217-s-your-personal-story&#34;&gt;What&amp;#8217;s your personal story?&lt;/h2&gt;
+
+&lt;p&gt;Well, I&amp;#8217;m learning a lot of stuff about my mental and physical health right now, and it&amp;#8217;s taking a lot of time and scheduling and effort and stuff like that. I realllly wanted to sign up for the new wave of #100DaysOfCode.&lt;/p&gt;
+
+&lt;p&gt;However! One thing I&amp;#8217;m getting better at is knowing what I can and cannot do, and I realized that I actually &lt;em&gt;need to get better at my own self-care&lt;/em&gt; before I can use that time for something like coding an hour outside of work every day. The #100DaysofHealthing project represents me acknowledging that, while also wanting to do a thing for 100 days and hopefully share that thing with others.&lt;sup id=&#34;fnref-20-2&#34;&gt;&lt;a href=&#34;#fn-20-2&#34; class=&#34;jetpack-footnote&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;okay-cool-how-do-i-do-it&#34;&gt;Okay, cool. How do I do it?&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Work on your health and self care for &lt;em&gt;at least an hour a day&lt;/em&gt;, starting on January 3, 2017.&lt;/li&gt;
+&lt;li&gt;To track your progress, &lt;a href=&#34;https://github.com/jwithington/100-days-of-healthing&#34; target=&#34;_blank&#34;&gt;fork this repo&lt;/a&gt;. Or consult the FAQ&amp;#8217;s below.&lt;/li&gt;
+&lt;li&gt;Make a public commitment to the challenge. Use the hashtag #100DaysOfHealthing (preferably on Twitter) to announce your intentions.&lt;sup id=&#34;fnref-20-3&#34;&gt;&lt;a href=&#34;#fn-20-3&#34; class=&#34;jetpack-footnote&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Tweet about your progress every day using the hashtag. I will, too, over &lt;a href=&#34;http://www.twitter.com/jwithy&#34; target=&#34;_blank&#34;&gt;@jwithy&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I&amp;#8217;ll push my progress to Github every day, and so can you! Follow it &lt;a href=&#34;https://github.com/jwithington/100-days-of-healthing&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;some-notes-and-what-have-yous&#34;&gt;Some notes and what-have-yous&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Don&amp;#8217;t put yourself at risk.&lt;/strong&gt; This is important. For a coding project, you shouldn&amp;#8217;t be vague; for health, you might need to be.&lt;sup id=&#34;fnref-20-4&#34;&gt;&lt;a href=&#34;#fn-20-4&#34; class=&#34;jetpack-footnote&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; That&amp;#8217;s cool. Don&amp;#8217;t disclose anything that you wouldn&amp;#8217;t tell your family, your boss, your loved ones, or that dude who was a jerk to you in high school. &amp;#8220;Completed my hour of self-care!&amp;#8221; isn&amp;#8217;t vague &amp;#8212; it&amp;#8217;s acknowledging that some things need to stay private. See the FAQ&amp;#8217;s for more.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;What constitutes self-care and health?&lt;/strong&gt; Well, that can totally vary from person to person, but here are some ways I think of it:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Going to the doctor for something you&amp;#8217;ve been putting off, or that requires ongoing attention.&lt;/li&gt;
+&lt;li&gt;Meditating, praying, anything like that!&lt;/li&gt;
+&lt;li&gt;Do you need permission to play a video game that totally helps you wind down after a hard day? You&amp;#8217;ve got it!&lt;/li&gt;
+&lt;li&gt;Are you addicted to said video game? Well, maybe reading a book instead would help your self care.&lt;/li&gt;
+&lt;li&gt;Diagnosed with a thing? Reading about strategies to cope, &lt;a href=&#34;https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q&#34; target=&#34;_blank&#34;&gt;watching videos that help you learn a thing&lt;/a&gt;, going to a support group&amp;#8230;these are all healthing!&lt;/li&gt;
+&lt;li&gt;What do you want to do that makes you feel like a better you? Coloring? Knitting? Cooking something for friends? Scented candles and tea? Do it do it do it. An hour for you.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Hey I don&amp;#8217;t work in tech.&lt;/strong&gt; That&amp;#8217;s not an issue at all. See the FAQs below. All you need to join up is your desire to boost your health.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Send me feedback.&lt;/strong&gt; I&amp;#8217;m gonna try to make everything accessible and welcoming, but I&amp;#8217;m still a middle-aged white dude with his own stuff. Hold me accountable! Contribute or post issues to the repo! Everybody wins!&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;faq-8217-s-partially-borrowed-based-on-100-days-of-code-and-then-tweaked&#34;&gt;FAQ&amp;#8217;s Partially Borrowed Based on 100 Days of Code and Then Tweaked&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt;The public part of this troubles me. What should I do?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt;Whatever works best for you. Really. I mean, I&amp;#8217;d love to hear it if you are participating, and letting people in your life know you&amp;#8217;re doing this can be super powerful. A casual &amp;#8220;how&amp;#8217;s the 100 days going?&amp;#8221; is super motivating! But! Getting 3+ months of awesomeness privately is better than not doing it because of the public component.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; I’ve missed a day, does it mean I’ve failed the challenge?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Absolutely not. Do your best to only miss one day every two weeks. Never miss two days in a row (so you can’t skip the 14th day of one week period and the 1st day of another). Alex mentions that he got this great piece of advice on habit formation from Leo Babauta at &lt;a href=&#34;http://zenhabits.net/&#34; target=&#34;_blank&#34;&gt;zen habits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; I come home late, and by the time I am finished with my hour, it’s past midnight. Does it count?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Of course it counts! The rule of thumb is: have you taken care of your health or yourself for at least an hour before going to sleep that day? If yes, you are on track. I currently have a 250+ day meditation streak, but sometimes my meditation for the day is at 1:23am. It&amp;#8217;s ok.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt;How should I track this?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt;Listen, journaling itself could be the self-care you need, so I&amp;#8217;m gonna propose you do that (and if you need a journal, let me know; I love my &lt;a href=&#34;https://fieldnotesbrand.com/&#34; target=&#34;_blank&#34;&gt;Field Notes&lt;/a&gt; and would love to send you one!). Use the Github repo. Tweet about it. Whatever is best for you!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; If everyone started on a certain day, should I join them on the day they are? For example, from Day 12?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Go ahead and start on Day 1. Just mention the day you&amp;#8217;re on when you post about it!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What&amp;#8217;s a Github?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Don&amp;#8217;t learn Github just for this project unless you want to.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Why &amp;#8220;Healthing&amp;#8221; and not &amp;#8220;health?&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Because internet.&lt;/p&gt;
+
+&lt;h2 id=&#34;helpful-links&#34;&gt;Helpful links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kungfugrippe.com/post/2572566804/fresh-starts&#34; target=&#34;_blank&#34;&gt;Resolutions are stupid&lt;/a&gt; (so let&amp;#8217;s make habits instead)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.43folders.com/2011/04/22/cranking&#34; target=&#34;_blank&#34;&gt;Cranking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://selfcare.tech&#34; target=&#34;_blank&#34;&gt;Selfcare.tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;www.shinetext.com/?r=oMPO7gG&#34; target=&#34;_blank&#34;&gt;Shine daily motivation texts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://750words.com/&#34; target=&#34;_blank&#34;&gt;750 Words&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Una&amp;#8217;s great &lt;a href=&#34;https://github.com/una/personal-goals&#34; target=&#34;_blank&#34;&gt;personal goals repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://healthfinder.gov/FindServices/SearchContext.aspx?topic=833&#34; target=&#34;_blank&#34;&gt;US Support Groups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Images by &lt;a href=&#34;https://www.flickr.com/photos/sachac&#34;&gt;sachac&lt;/a&gt; and licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;C.C. by 2.0&lt;/a&gt;: &lt;a href=&#34;https://www.flickr.com/photos/sachac/17157051896/in/photolist-s97nMA-sfUoL1-9sa2eX-9sd1LL-aatdKM-6PEeVj-dsx3i6-cJYTJC-oMzPb-56CUnd-9sgfe9-fsXK2T-pihpVY-qgL4mF-4f7bev-9TfaLW-ej2mct-gwmN7H-a9MFqY-gwmAC2-jSWVy4-eg9yha-dswhG8-9sgf6f-4FSfTU-aBshrA-nbuAHY-nAKQ4C-zMGBS-9sa2pR-9sge2w-nbtLM7-9sdfhX-jgW5dc-dFHiG5-r1jJAM-6EpzvX-7E3U4g-cjF8mq-5jhfU6-fZDKXs-5HCzhP-9sge6s-drgpAM-9sdfFD-9sgeD5-9FFDea-dPyiC6-9sgfeY-9sdfxp/&#34;&gt;Being extra-kind to myself&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://flic.kr/p/rqWndX&#34;&gt;What I do for self care&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; &lt;em&gt;this post originally appeared over at &lt;a href=&#34;http://unfocused.tech&#34; target=&#34;_blank&#34;&gt;the (un)focused dev&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li id=&#34;fn-20-1&#34;&gt;
+  Not that I know anything about that.&amp;#160;&lt;a href=&#34;#fnref-20-1&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn-20-2&#34;&gt;
+  Oh, another thing to note: I&amp;#8217;m fortunate in that I actually &lt;strong&gt;do&lt;/strong&gt; work somewhere that recognizes all the benefits of healthy, happy workers. This project should not imply otherwise. 😄&amp;#160;&lt;a href=&#34;#fnref-20-2&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn-20-3&#34;&gt;
+  Why public? Listen to Alex and Saron &lt;a href=&#34;http://www.codenewbie.org/podcast/100-days-of-code&#34;&gt;discuss that&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref-20-3&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn-20-4&#34;&gt;
+  I&amp;#8217;m being vague, too. 😄&amp;#160;&lt;a href=&#34;#fnref-20-4&#34;&gt;&amp;#8617;&lt;/a&gt; &lt;/fn&gt;&lt;/footnotes&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

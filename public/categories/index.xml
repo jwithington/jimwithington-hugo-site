@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jim Withington</title>
+    <link>https://jimwithington.com/categories/</link>
+    <description>Recent content in Categories on Jim Withington</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jim Withington</copyright>
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jimwithington.com/categories/projects/</link>
+      <pubDate>Sun, 19 Mar 2017 05:30:10 +0000</pubDate>
+      
+      <guid>https://jimwithington.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Site</title>
+      <link>https://jimwithington.com/categories/site/</link>
+      <pubDate>Thu, 13 Jul 2017 14:54:51 -0700</pubDate>
+      
+      <guid>https://jimwithington.com/categories/site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://jimwithington.com/categories/tutorial/</link>
+      <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
+      
+      <guid>https://jimwithington.com/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
