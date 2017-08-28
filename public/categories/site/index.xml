@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site on Jim Withington</title>
-    <link>https://jimwithington.com/categories/site/</link>
+    <link>http://jimwithington.com/categories/site/</link>
     <description>Recent content in Site on Jim Withington</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Time for a New Engine</title>
-      <link>https://jimwithington.com/2017/07/07/new-engine/</link>
+      <link>http://jimwithington.com/2017/07/07/new-engine/</link>
       <pubDate>Thu, 13 Jul 2017 14:54:51 -0700</pubDate>
       
-      <guid>https://jimwithington.com/2017/07/07/new-engine/</guid>
+      <guid>http://jimwithington.com/2017/07/07/new-engine/</guid>
       <description>&lt;p&gt;I decided to build (Un)focused Dev in WordPress, thinking that doing so would make me do a lot more WordPress dev.&lt;/p&gt;
 
 &lt;p&gt;I was wrong.&lt;/p&gt;
