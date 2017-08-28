@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2017-08-27T00:00:00"
 draft = false
 
 widget = "about"
@@ -32,11 +32,11 @@ weight = 1
   course = "BSc in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
   year = 2008
- 
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I've lived in Portland, Oregon, since 2005, and in that time I've coached students, taught art and writing courses, and worked in customer support. After years of mostly being a technology fan, I fell in love with the simplicity of markdown and decided to learn to code.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+That simplicity still drives what I do. I like clean lines and building websites that are easy to update and maintain. Let’s build something together!

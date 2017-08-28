@@ -5,8 +5,8 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Recent Posts"
-subtitle = ""
+title = "Recent Writing"
+subtitle = "A selection of things I've written about recently"
 widget = "posts"
 
 # Order that this section will appear in.
@@ -19,4 +19,3 @@ tags = []
 count = 5
 
 +++
-
