@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jim Withington</copyright>
     <lastBuildDate>Sun, 19 Mar 2017 05:30:10 +0000</lastBuildDate>
-    <atom:link href="/tags/#100daysofhealthing/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://jimwithington.com/tags/#100daysofhealthing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What I’ve been doing; or, what if you start a project and it kinda takes off but doesn’t; or, what if it seems like you abandoned your own thing; or, integrating new practices; or, Day 36 to Day 64</title>
@@ -16,85 +18,8 @@
       <pubDate>Sun, 19 Mar 2017 05:30:10 +0000</pubDate>
       
       <guid>http://jimwithington.com/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</guid>
-      <description>
-
-&lt;!-- &lt;img src=&#34;http://unfocused.tech/wp-content/uploads/2017/03/public-domain-images-free-stock-photos-high-quality-resolution-downloads-around-the-house-7-768x512.jpg&#34; alt=&#34;A nest on top of a stack of books, on a bookshelf&#34; width=&#34;660&#34; height=&#34;440&#34; class=&#34;aligncenter size-medium_large wp-image-40&#34; /&gt; --&gt;
-
-&lt;p&gt;For the first 5 weeks or so of 2017, &lt;a href=&#34;https://github.com/jwithington/100-days-of-healthing/graphs/commit-activity&#34; target=&#34;_blank&#34;&gt;I committed a whole lot&lt;/a&gt; to my #&lt;a href=&#34;https://github.com/jwithington/100-days-of-healthing&#34; target=&#34;_blank&#34;&gt;100DaysOfHealthing repo&lt;/a&gt;. The project buzzed around my head, I set up my work computer to launch Git Bash every day when I logged in, and &lt;a href=&#34;http://selfcare.tech/&#34; target=&#34;_blank&#34;&gt;folks that I admire&lt;/a&gt; even added me to their &lt;a href=&#34;https://github.com/jenniferlynparsons/selfcaretech/pull/36&#34; target=&#34;_blank&#34;&gt;own projects&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;And then hey look at that, it was February, and a lot of good things were happening in my personal life&amp;#8211;health things shaking out, finances slowly but kinda surely improving, meditating every day (not just three minutes at a time, but 10 minutes, even! Thanks &lt;a href=&#34;https://www.headspace.com&#34; target=&#34;_blank&#34;&gt;Headspace&lt;/a&gt; !), and going to acupuncture regularly. I took baths a lot more with the help of the &amp;#8220;podcast bath kit&amp;#8221; my girlfriend bought me for Christmas. I helped promote self-care at work and at home. I had encouraging things for other folks who were participating.&lt;/p&gt;
-
-&lt;p&gt;And then, the commits dried up.&lt;/p&gt;
-
-&lt;p&gt;I feel a responsibility to explain that, and also like the idea of showing how &lt;em&gt;this kind of shift&lt;/em&gt; can be positive, too. So here goes.&lt;/p&gt;
-
-&lt;h2 id=&#34;you-are-not-your-projects&#34;&gt;You are not your projects&lt;/h2&gt;
-
-&lt;p&gt;You know what would suck? If &lt;strong&gt;&lt;em&gt;trying to get one self-care hour a day stressed you the fuck out&lt;/em&gt;&lt;/strong&gt;. If trying to make time to track a self-care hour &lt;em&gt;in itself made you miss or long for self-care&lt;/em&gt;. If &amp;#8220;update self-care log&amp;#8221; because a niggling, nagging task, instead of a joyous way to track amazing steps!&lt;/p&gt;
-
-&lt;p&gt;Did this happen to me? No way. But as I started updating three, four, seven days all in a batch, I realized something:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;It was more important to me to live a life that included self-care (and promotion of self-care) than it was to do little updates every day.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Cop out? Hmm.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;¯\_(ツ)_/¯&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;But here&amp;#8217;s a list of things that have happened since my last commit to the repo:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;For my birthday, my girlfriend, dog, and &lt;strong&gt;I took a screenless weekend on the Washington coast&lt;/strong&gt;. This included a lot of taking baths, reading, and not much else. I wanted a pause, and I got one, and it was like a self-care boot camp reset.&lt;sup id=&#34;fnref-32-1&#34;&gt;&lt;a href=&#34;#fn-32-1&#34; class=&#34;jetpack-footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;I learned that &lt;strong&gt;I no longer wanted to use my phone as my alarm&lt;/strong&gt;. Weird? I dunno, but hear me out: screenless weekend meant my phone wasn&amp;#8217;t the last thing I saw at light&amp;#8217;s out or the first thing I saw when waking up. I no longer could get sucked in to distractions at the time when my mind is most apt (&lt;a href=&#34;https://www.youtube.com/watch?v=3MpRt41tPoc&#34; target=&#34;_blank&#34;&gt;apt!&lt;/a&gt;) to fill with distraction.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;So I bought a [Pebble Time][pebble]. This, too, was huge. Now I had an alarm that would wake me up silently, more easily, and without HEY HERE&amp;#8217;S ALL THE COOL PHONE THINGS YOU CAN DO staring at me from moment one. I can walk the dog without my phone as a step tracker. I have a thing that lives on my body that maybe is a bit less accurate but more realistic in telling me when I was &lt;em&gt;actually&lt;/em&gt; sleeping.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;I continued working out some medication stuff that&amp;#8217;s important.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;I had some mini-breakthroughs in therapy and at acupuncture.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These seem positive to me. And (maybe with the exception of a gadget, even a well-thought out one) it seems like ongoing self-care, too.&lt;/p&gt;
-
-&lt;h2 id=&#34;unstructured-time&#34;&gt;Unstructured Time&lt;/h2&gt;
-
-&lt;p&gt;I never take any. If I think of the kind of thing where I actively just&amp;#8230;hang out? Watch a random movie? Read a magazine and just drink coffee, or even just go out for coffee without a Task At Hand? I hardly ever do these things.&lt;/p&gt;
-
-&lt;p&gt;And my therapist (who rules) and I keep coming back to that. I always feel &lt;a href=&#34;http://5by5.tv/b2w/251&#34; target=&#34;_blank&#34;&gt;time-constrained&lt;/a&gt;, and I also always feel like &amp;#8220;this time right here has to have something going on.&amp;#8221;&lt;/p&gt;
-
-&lt;p&gt;So, in a way, I&amp;#8217;ve been doing more self-care during #100DaysOfHealthing. I just haven&amp;#8217;t always planned, executed and recorded it.&lt;/p&gt;
-
-&lt;p&gt;I hope that&amp;#8217;s true for you as well.&lt;/p&gt;
-
-&lt;p&gt;And I know that I have a loooong way to go improve my relationship with myself and others, but the self-care part has landed in a good spot.&lt;/p&gt;
-
-&lt;h2 id=&#34;now-what&#34;&gt;Now What?&lt;/h2&gt;
-
-&lt;p&gt;Well, a few things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I still consider the project to be underway, for me, and for any of you that are still doing it.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;In the future, for the project, I&amp;#8217;m going to consider finding a way to make tracking days a lot simpler / more &amp;#8220;on the fly&amp;#8221;. Because stressing out about tracking self-care is super unproductive.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;At some point we will reach 100 days! And then maybe, later in the year, I&amp;#8217;ll do a relaunch of the project.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;But for now, know this: I&amp;#8217;m supporting myself by taking time for self-care. I hope you are, too.&lt;/p&gt;
-
-&lt;p&gt;❤️&lt;/p&gt;
-
-&lt;p&gt;jim&lt;/p&gt;
-
-&lt;p&gt;p.s. I wrote this about two weeks ago, but didn&amp;#8217;t quite post it then. I think it all still stands though. 😀 Today, March 18, is Day 75, if you&amp;#8217;re counting.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;this post originally appeared over at &lt;a href=&#34;http://unfocused.tech&#34; target=&#34;_blank&#34;&gt;the (un)focused dev&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;li id=&#34;fn-32-1&#34;&gt;
-  You should go &lt;a href=&#34;https://www.marinacottages.com/&#34;&gt;to Westport&lt;/a&gt;. It&amp;#8217;s delightful.&amp;#160;&lt;a href=&#34;#fnref-32-1&#34;&gt;&amp;#8617;&lt;/a&gt; &lt;/fn&gt;&lt;/footnotes&gt;&lt;/p&gt;
-</description>
+      <description>-- For the first 5 weeks or so of 2017, I committed a whole lot to my #100DaysOfHealthing repo. The project buzzed around my head, I set up my work computer to launch Git Bash every day when I logged in, and folks that I admire even added me to their own projects.
+And then hey look at that, it was February, and a lot of good things were happening in my personal life&amp;#8211;health things shaking out, finances slowly but kinda surely improving, meditating every day (not just three minutes at a time, but 10 minutes, even!</description>
     </item>
     
   </channel>

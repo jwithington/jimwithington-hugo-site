@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Go for It on Jim Withington</title>
+    <title>Go For It on Jim Withington</title>
     <link>http://jimwithington.com/tags/go-for-it/</link>
-    <description>Recent content in Go for It on Jim Withington</description>
+    <description>Recent content in Go For It on Jim Withington</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jim Withington</copyright>
     <lastBuildDate>Sun, 13 Nov 2016 05:53:56 +0000</lastBuildDate>
-    <atom:link href="/tags/go-for-it/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://jimwithington.com/tags/go-for-it/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Starting a New WordPress Blog With Digital Ocean</title>
@@ -16,37 +18,8 @@
       <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
       <guid>http://jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://unfocused.tech/wp-content/uploads/2016/11/successful-1.png&#34; alt=&#34;successful&#34; width=&#34;1283&#34; height=&#34;856&#34; class=&#34;aligncenter size-full wp-image-12&#34; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;starting-a-new-wordpress-blog-with-digital-ocean&#34;&gt;Starting a New WordPress Blog With Digital Ocean&lt;/h1&gt;
-
-&lt;p&gt;I launched this today and I did it with a few hours worth of work. Some considerations:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I&amp;#8217;m actually super into &lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;jekyll&lt;/a&gt; and &lt;a href=&#34;https://staticsitegenerators.net/&#34; target=&#34;_blank&#34;&gt;static site generators&lt;/a&gt; in general. However, I&amp;#8217;m going to be helping with a project soon that might use WordPress, and I&amp;#8217;m also pretty interested in it in general. So, here we go!&lt;/li&gt;
-&lt;li&gt;I&amp;#8217;m comfy using tutorials for command line stuff.&lt;/li&gt;
-&lt;li&gt;I knew that WordPress administration includes worrying about security, especially with hosting my own cloud server.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hey, so, GOOD NEWS! Digital Ocean has a bunch of related tutorials for this stuff.&lt;/p&gt;
-
-&lt;p&gt;So here are the steps I took to get to the point where I was writing this.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Get a new droplet at &lt;a href=&#34;https://m.do.co/c/628740d52fb9&#34; target=&#34;_blank&#34;&gt;Digital Ocean&lt;/a&gt;. This was easy because back in the day I used to run &lt;a href=&#34;http://hardlikealgebra.com&#34; target=&#34;_blank&#34;&gt;Hard Like Algebra&lt;/a&gt;, using ghost, on a droplet. So hey, log in, &lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean&#34; target=&#34;_blank&#34;&gt;pick the one-click install&lt;/a&gt;, woot! I picked the cheapest one because I don&amp;#8217;t anticipate having a ton of traffic right now, and I really see this as just giving it all a shot.&lt;/li&gt;
-&lt;li&gt;I followed the instructions to set it all up.&lt;/li&gt;
-&lt;li&gt;I then made sure to do all the security stuff that they recommended.&lt;/li&gt;
-&lt;li&gt;And now I&amp;#8217;m writing.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The thing is, something like this isn&amp;#8217;t super tough if you&amp;#8217;re willing to just &lt;em&gt;go for it&lt;/em&gt;. I&amp;#8217;m currently doing the &lt;a href=&#34;https://simpleprogrammer.com/&#34; target=&#34;_blank&#34;&gt;simple programmer&lt;/a&gt; &lt;a href=&#34;https://simpleprogrammer.com/lp/create-your-blog-1/&#34; target=&#34;_blank&#34;&gt;free email course&lt;/a&gt; on starting a blog, and I knew pretty early on that I didn&amp;#8217;t want to use Bluehost because I didn&amp;#8217;t want to commit to paying for a year upfront. Instead, here I am now, writing on my new cloud hosted blog. I even enabled https for the first time! Not too shabby.&lt;/p&gt;
-
-&lt;p&gt;Let me know if you have any issues with all of this, and happy blogging!&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt; &lt;em&gt;this post originally appeared over at &lt;a href=&#34;http://unfocused.tech&#34; target=&#34;_blank&#34;&gt;the (un)focused dev&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
-</description>
+      <description>Starting a New WordPress Blog With Digital Ocean I launched this today and I did it with a few hours worth of work. Some considerations:
+ I&amp;#8217;m actually super into jekyll and static site generators in general. However, I&amp;#8217;m going to be helping with a project soon that might use WordPress, and I&amp;#8217;m also pretty interested in it in general. So, here we go! I&amp;#8217;m comfy using tutorials for command line stuff.</description>
     </item>
     
   </channel>

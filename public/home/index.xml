@@ -8,7 +8,37 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jim Withington</copyright>
     <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://jimwithington.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://jimwithington.com/home/about/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jimwithington.com/home/about/</guid>
+      <description>Biography I&amp;rsquo;ve lived in Portland, Oregon, since 2005, and in that time I&amp;rsquo;ve coached students, taught art and writing courses, and worked in customer support. After years of mostly being a technology fan, I fell in love with the simplicity of markdown and decided to learn to code.
+That simplicity still drives what I do. I like clean lines and building websites that are easy to update and maintain. Let’s build something together!</description>
+    </item>
+    
+    <item>
+      <title>Recent Writing</title>
+      <link>http://jimwithington.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jimwithington.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://jimwithington.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jimwithington.com/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
