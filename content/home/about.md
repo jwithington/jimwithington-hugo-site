@@ -17,7 +17,7 @@ weight = 1
     "SASS",
     "Jekyll & Hugo",
     "JAMstack",
-    "Writing good docs"
+    "Writing great documentaion"
   ]
 
 # List your qualifications (such as academic degrees).
