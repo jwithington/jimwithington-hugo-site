@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jim Withington</title>
-    <link>http://jimwithington.com/</link>
+    <link>http://www.jimwithington.com/</link>
     <description>Recent content on Jim Withington</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jim Withington</copyright>
     <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://jimwithington.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jimwithington.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://jimwithington.com/home/about/</link>
+      <link>http://www.jimwithington.com/home/about/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://jimwithington.com/home/about/</guid>
+      <guid>http://www.jimwithington.com/home/about/</guid>
       <description>Biography I&amp;rsquo;ve lived in Portland, Oregon, since 2005, and in that time I&amp;rsquo;ve coached students, taught art and writing courses, and worked in customer support. After years of mostly being a technology fan, I fell in love with the simplicity of markdown and decided to learn to code.
 That simplicity still drives what I do. I like clean lines and building websites that are easy to update and maintain. Let’s build something together!</description>
     </item>
     
     <item>
       <title>Recent Writing</title>
-      <link>http://jimwithington.com/home/posts/</link>
+      <link>http://www.jimwithington.com/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jimwithington.com/home/posts/</guid>
+      <guid>http://www.jimwithington.com/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://jimwithington.com/home/contact/</link>
+      <link>http://www.jimwithington.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jimwithington.com/home/contact/</guid>
+      <guid>http://www.jimwithington.com/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time for a New Engine</title>
-      <link>http://jimwithington.com/2017/07/07/new-engine/</link>
+      <link>http://www.jimwithington.com/2017/07/07/new-engine/</link>
       <pubDate>Thu, 13 Jul 2017 14:54:51 -0700</pubDate>
       
-      <guid>http://jimwithington.com/2017/07/07/new-engine/</guid>
+      <guid>http://www.jimwithington.com/2017/07/07/new-engine/</guid>
       <description>I decided to build (Un)focused Dev in WordPress, thinking that doing so would make me do a lot more WordPress dev.
 I was wrong.
 All it did was frustrate me, much like I thought it would.
@@ -56,30 +56,30 @@ Things around here are a bit broken right now, as I figure out silly things like
     
     <item>
       <title>What I’ve been doing; or, what if you start a project and it kinda takes off but doesn’t; or, what if it seems like you abandoned your own thing; or, integrating new practices; or, Day 36 to Day 64</title>
-      <link>http://jimwithington.com/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</link>
+      <link>http://www.jimwithington.com/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</link>
       <pubDate>Sun, 19 Mar 2017 05:30:10 +0000</pubDate>
       
-      <guid>http://jimwithington.com/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</guid>
+      <guid>http://www.jimwithington.com/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</guid>
       <description>-- For the first 5 weeks or so of 2017, I committed a whole lot to my #100DaysOfHealthing repo. The project buzzed around my head, I set up my work computer to launch Git Bash every day when I logged in, and folks that I admire even added me to their own projects.
 And then hey look at that, it was February, and a lot of good things were happening in my personal life&amp;#8211;health things shaking out, finances slowly but kinda surely improving, meditating every day (not just three minutes at a time, but 10 minutes, even!</description>
     </item>
     
     <item>
       <title>100 Days of Healthing</title>
-      <link>http://jimwithington.com/2017/01/02/100-days-of-healthing/</link>
+      <link>http://www.jimwithington.com/2017/01/02/100-days-of-healthing/</link>
       <pubDate>Mon, 02 Jan 2017 01:57:27 +0000</pubDate>
       
-      <guid>http://jimwithington.com/2017/01/02/100-days-of-healthing/</guid>
+      <guid>http://www.jimwithington.com/2017/01/02/100-days-of-healthing/</guid>
       <description>What&amp;#8217;s this, now? Inspired by 100DaysofCode, 100 Days of Healthing is a challenge to spend an hour a day, for 100 days, working on your health &amp;amp; self care. It&amp;#8217;s permission to give yourself an hour a day. And we&amp;#8217;re all here with you.
 Why do you hate 100 Days of Code? Oh my goodness, that&amp;#8217;s so not true! I don&amp;#8217;t. I think it&amp;#8217;s a fabulous concept, super motivating, something I want to do (maybe for the second 100 days of 2017?</description>
     </item>
     
     <item>
       <title>Starting a New WordPress Blog With Digital Ocean</title>
-      <link>http://jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</link>
+      <link>http://www.jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</link>
       <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
-      <guid>http://jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</guid>
+      <guid>http://www.jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</guid>
       <description>Starting a New WordPress Blog With Digital Ocean I launched this today and I did it with a few hours worth of work. Some considerations:
  I&amp;#8217;m actually super into jekyll and static site generators in general. However, I&amp;#8217;m going to be helping with a project soon that might use WordPress, and I&amp;#8217;m also pretty interested in it in general. So, here we go! I&amp;#8217;m comfy using tutorials for command line stuff.</description>
     </item>

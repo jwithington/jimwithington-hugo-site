@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go for It on Jim Withington</title>
-    <link>http://jimwithington.com/tags/go-for-it/</link>
+    <link>http://www.jimwithington.com/tags/go-for-it/</link>
     <description>Recent content in Go for It on Jim Withington</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jim Withington</copyright>
     <lastBuildDate>Sun, 13 Nov 2016 05:53:56 +0000</lastBuildDate>
     
-	<atom:link href="http://jimwithington.com/tags/go-for-it/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jimwithington.com/tags/go-for-it/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starting a New WordPress Blog With Digital Ocean</title>
-      <link>http://jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</link>
+      <link>http://www.jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</link>
       <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
-      <guid>http://jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</guid>
+      <guid>http://www.jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</guid>
       <description>Starting a New WordPress Blog With Digital Ocean I launched this today and I did it with a few hours worth of work. Some considerations:
  I&amp;#8217;m actually super into jekyll and static site generators in general. However, I&amp;#8217;m going to be helping with a project soon that might use WordPress, and I&amp;#8217;m also pretty interested in it in general. So, here we go! I&amp;#8217;m comfy using tutorials for command line stuff.</description>
     </item>
