@@ -18,8 +18,8 @@
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.jimwithington.com/home/about/</guid>
-      <description>Biography I&amp;rsquo;ve lived in Portland, Oregon, since 2005, and in that time I&amp;rsquo;ve coached students, taught art and writing courses, and worked in customer support. After years of mostly being a technology fan, I fell in love with the simplicity of markdown and decided to learn to code.
-That simplicity still drives what I do. I like clean lines and building websites that are easy to update and maintain. Let’s build something together!</description>
+      <description>Biography I&amp;rsquo;m a Software Engineer focused on Front End web development and skilled in building responsive React components, maintaining legacy code, static site generators,and accurate documentation. A quick and thorough learner and perceptive communicator, I&amp;rsquo;m always looking to learn the next interesting thing.
+How I got here I&amp;rsquo;ve lived in Portland, Oregon, since 2005, and in that time I&amp;rsquo;ve coached students, taught art and writing courses, and worked in customer support.</description>
     </item>
     
     <item>
@@ -82,6 +82,17 @@ Why do you hate 100 Days of Code? Oh my goodness, that&amp;#8217;s so not true! 
       <guid>http://www.jimwithington.com/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</guid>
       <description>Starting a New WordPress Blog With Digital Ocean I launched this today and I did it with a few hours worth of work. Some considerations:
  I&amp;#8217;m actually super into jekyll and static site generators in general. However, I&amp;#8217;m going to be helping with a project soon that might use WordPress, and I&amp;#8217;m also pretty interested in it in general. So, here we go! I&amp;#8217;m comfy using tutorials for command line stuff.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jimwithington.com/post/2019-01-31-literally-speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jimwithington.com/post/2019-01-31-literally-speaking/</guid>
+      <description>Date: 02/02/19 Title: Literally Speaking Permalink: /literally-speaking Tags: learning, coding
+Literally speaking Yesterday I put in a pull request for the framework that we use at work. It was related to an issue I&amp;rsquo;d submitted; namely, that I wanted to be able to send folks style guide links to specific variants of components we build. {{more}} Building this had a lot of codey type things in it:
+ Thinking about how to build it took longer than building it!</description>
     </item>
     
   </channel>

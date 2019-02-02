@@ -56,5 +56,16 @@ Why do you hate 100 Days of Code? Oh my goodness, that&amp;#8217;s so not true! 
  I&amp;#8217;m actually super into jekyll and static site generators in general. However, I&amp;#8217;m going to be helping with a project soon that might use WordPress, and I&amp;#8217;m also pretty interested in it in general. So, here we go! I&amp;#8217;m comfy using tutorials for command line stuff.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://www.jimwithington.com/post/2019-01-31-literally-speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jimwithington.com/post/2019-01-31-literally-speaking/</guid>
+      <description>Date: 02/02/19 Title: Literally Speaking Permalink: /literally-speaking Tags: learning, coding
+Literally speaking Yesterday I put in a pull request for the framework that we use at work. It was related to an issue I&amp;rsquo;d submitted; namely, that I wanted to be able to send folks style guide links to specific variants of components we build. {{more}} Building this had a lot of codey type things in it:
+ Thinking about how to build it took longer than building it!</description>
+    </item>
+    
   </channel>
 </rss>
