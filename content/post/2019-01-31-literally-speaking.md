@@ -1,7 +1,14 @@
-Date: 02/02/19
-Title: Literally Speaking
-Permalink: /literally-speaking
-Tags: learning, coding
+---
+title: "Literally Speaking"
+date: 2019-01-31T14:54:51-07:00
+author: Jim Withington
+url: /2019/01/31/literally-speaking/
+author: Jim Withington
+type: post
+tags:
+  - coding
+  - learning
+---
 
 # Literally speaking
 
